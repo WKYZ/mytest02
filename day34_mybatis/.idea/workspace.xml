@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b33d033c-ce83-4f1a-aca5-4c8906e9d4af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\dev\apache-maven-3.5.2\repository" />
+        <option name="mavenHome" value="E:/dev/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\dev\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal -Dfile.encoding=GB2312" />
+  </component>
+  <component name="ProjectId" id="1mPkTl1oG9zdHZjjEphBoMAI0Vq" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33d033c-ce83-4f1a-aca5-4c8906e9d4af" name="Default Changelist" comment="" />
+      <created>1609402623547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609402623547</updated>
+      <workItem from="1609402627708" duration="211000" />
+      <workItem from="1609597416421" duration="30000" />
+      <workItem from="1627953374240" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="117" y="0" key="#Project_Structure" timestamp="1609402772206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="117" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1609402772206" />
+    <state x="417" y="119" key="FileChooserDialogImpl" timestamp="1609597446350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609597446350" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1609597438432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609597438432" />
+    <state x="12" y="0" key="new project wizard" timestamp="1609402836693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="12" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609402836693" />
+  </component>
+</project>
